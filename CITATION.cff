@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software in your work, please cite it using the metadata below."
+title: "UTi Thermal Utils: Radiometric Video Extractor & Object Segmentation Toolkit"
+type: software
+authors:
+  - family-names: Aponsu
+    given-names: G. M. T. P.
+license: MIT
+version: 1.0.0
+date-released: 2026-11-20
+keywords:
+  - thermal-imaging
+  - radiometric-extraction
+  - opencv
+  - tesseract-ocr
+  - infrared-thermography
+  - uni-t
